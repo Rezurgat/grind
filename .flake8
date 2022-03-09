@@ -1,3 +1,4 @@
 [flake8]
 exclude = .git,__pycache__,.venv,*migrations*,settings
 max-line-length=200
+ignore=F401
